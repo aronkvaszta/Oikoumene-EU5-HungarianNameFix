@@ -1,11 +1,10 @@
 ﻿{
-	"name":	"Oikoumenē",
-	"id":	"oikoumene",
-	"version":	"0.19",
-	"supported_game_version":	"1.*",
+	"name":	"Oikoumenē - HunNameFix",
+	"id":	"oikoumene.hun.name.fix",
+	"version":	"1.0",
+	"supported_game_version":	"1.4.*",
 	"short_description":	"Oikoumenē is a cultural toponym mod.",
 	"tags":	["Map", "Translation"],
-	"relationships":	[],
-	"game_custom_data":	{
-}
+	"relationships":	["oikoumene"],
+	"game_custom_data":	{}
 }

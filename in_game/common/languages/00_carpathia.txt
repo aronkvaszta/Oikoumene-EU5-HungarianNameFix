@@ -159,9 +159,6 @@
 		hu_low_sipos hu_low_bodnar hu_low_varadi hu_low_szucs hu_low_boros hu_low_sarkozy hu_low_lengyel
 		hu_low_szekely
 	}
-	location_suffix = "location_suffix_hungarian"
-	character_name_short_regnal_number = "CHARACTER_SHORT_NAME_PREFIX_NUMBER_NAME_SUFFIX"
-	character_name_order = "CHARACTER_NAME_ORDER_PREFIX_NUMBER_NICKNAME_LASTNAME_NAME_SUFFIX"
 	ship_names = {
 		om7_ship_hungarian_language_001 om7_ship_hungarian_language_002 om7_ship_hungarian_language_003
 		om7_ship_hungarian_language_004 om7_ship_hungarian_language_005 om7_ship_hungarian_language_006
@@ -203,6 +200,9 @@
 		om7_ship_hungarian_language_112 om7_ship_hungarian_language_113 om7_ship_hungarian_language_114
 		om7_ship_hungarian_language_115
 	}
+	location_suffix = "location_suffix_hungarian"
+	character_name_short_regnal_number = "CHARACTER_SHORT_NAME_PREFIX_NUMBER_NAME_SUFFIX"
+	character_name_order = "CHARACTER_NAME_ORDER_PREFIX_NUMBER_LASTNAME_NAME_NICKNAME_SUFFIX"
 }
 
 romanian_language = {
